@@ -2,6 +2,7 @@
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on any website project
+- 📩 You can contact me at thecptwaffles@gmail.com
 
 <!---
 thecptwaffles/thecptwaffles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
