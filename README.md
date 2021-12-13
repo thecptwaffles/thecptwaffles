@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thecptwaffles
 - 👀 I’m interested in making websites
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any website project
 - 📩 You can contact me at thecptwaffles@gmail.com
 
