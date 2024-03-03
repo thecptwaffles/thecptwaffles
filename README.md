@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thecptwaffles
-- 👀 I’m interested in making websites
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in making games and websites
+- 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on any website project
-- 📩 You can contact me at thecptwaffles@zohomail.com
+- 📩 You can contact me at thecptwaffles@gmail.com
 
 <!---
 thecptwaffles/thecptwaffles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
